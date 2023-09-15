@@ -1,1 +1,1 @@
-Segundo ejercicio de git en clase
+Modificando segundo archivo
